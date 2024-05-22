@@ -1,0 +1,29 @@
+* {
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.complate{
+    text-decoration:line-through;
+}
+
+ul{
+    padding: 10px 30px;
+}
+
+input{
+    margin: 10px 30px;
+}
+
+li{
+    list-style: none;
+    margin: 15px 0px;
+}
+
+.home{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    padding: 20px 30px;
+}
